@@ -1,0 +1,25 @@
+{
+  "name": "la-fabrica-del-gel",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "dependencies": {
+    "vue": "^3.4.29",
+    "vue-cookies": "^1.8.4",
+    "vue-i18n": "^10.0.1",
+    "vue-router": "^4.4.5",
+    "vue3-carousel": "^0.3.4",
+    "vue3-click-away": "^1.2.4"
+  },
+  "devDependencies": {
+    "@vitejs/plugin-vue": "^5.0.5",
+    "sass": "^1.79.3",
+    "sass-loader": "^16.0.2",
+    "vite": "^5.3.1"
+  }
+}

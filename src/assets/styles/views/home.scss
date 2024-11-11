@@ -1,0 +1,168 @@
+* {
+  box-sizing: border-box;
+}
+
+.carrouselContainer {
+  //1910
+  max-width: calc(100vw * 1919 / 1920);
+
+}
+
+.homeImg {
+  margin-top: calc(100vh * 100 / 1080);
+  //1910
+  width: calc(100vw * 1919 / 1920);
+  height: calc(100vh * 980 / 1080);
+  object-fit: cover;
+}
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 1s ease;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+
+#restaurantContainer {
+  //1910
+  width: calc(100vw * 1919 / 1920);
+  height: 630px;
+  margin-bottom: 550px;
+
+  @media (max-width: 1250px) {
+    margin-bottom: 400px;
+
+  }
+
+  @media (max-width: 991px) {
+    margin-bottom: 350px;
+
+  }
+
+}
+
+.sectionContainer {
+  margin-left: calc(100vw * 500 / 1920);
+  margin-right: calc(100vw * 500 / 1920);
+
+  @media (max-width: 1250px) {
+    margin-left: calc(100vw * 200 / 1920);
+    margin-right: calc(100vw * 200 / 1920);
+  }
+
+  @media (max-width: 991px) {
+    margin-left: calc(100vw * 100 / 1920);
+    margin-right: calc(100vw * 100 / 1920);
+  }
+
+}
+
+.sectionTitle {
+  color: #b47e2e;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+
+
+  margin-bottom: 66px;
+
+}
+
+.textContainer {
+  color: black;
+  font-size: 21px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-bottom: 85px;
+  text-align: center;
+
+  @media (max-width: 991px) {
+    font-size: 15px;
+
+  }
+
+}
+
+
+
+.carousel__icon {
+  height: 100px;
+  width: calc(100vw * 90 / 1920);
+  position: absolute;
+  background-color: white;
+  color: black;
+  border: none;
+  cursor: pointer;
+  font-size: 24px;
+  z-index: 10;
+  transition: color 0.3s ease;
+}
+
+
+.carousel__icon:hover {
+  color: #b47e2e;
+
+}
+
+.carousel__prev {
+
+
+  left: -2px;
+  margin-left: calc(100vw * 15 / 1920);
+}
+
+.carousel__next {
+
+  right: 15px;
+  margin-right: calc(100vw * 15 / 1920);
+}
+
+
+
+.carousel__pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.carousel__pagination-button {
+  width: 12px;
+  height: 12px;
+  margin: 0 7px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.carousel__pagination-button::after {
+  width: 12px;
+  height: 12px;
+  background-color: #c7c7c7;
+  border-radius: 50%;
+  margin: 0 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.carousel__pagination-button:hover::after {
+  background-color: #b47e2e;
+}
+
+.carousel__pagination-button--active::after {
+  background-color: black;
+}
+
+.footerSeparatorHome {
+  height: 80px;
+}
+
+@media screen and (max-width: 991px) {
+
+  .carousel__prev,
+  .carousel__next {
+    display: none;
+  }
+
+
+}

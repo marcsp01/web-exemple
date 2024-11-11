@@ -1,0 +1,155 @@
+* {
+  box-sizing: border-box;
+}
+
+
+.fade-enter-active,
+.fade-leave-active {
+  transition: opacity 1s ease;
+}
+
+.fade-enter,
+.fade-leave-to {
+  opacity: 0;
+}
+
+#cuinaContainer {
+  //1910
+  width: calc(100vw * 1919 / 1920);
+  height: 700px;
+
+  margin-top: 200px;
+  margin-bottom: 350px;
+
+  @media (max-width: 1250px) {
+    margin-bottom: 200px;
+
+  }
+
+  @media (max-width: 991px) {
+    margin-bottom: 250px;
+
+  }
+
+  @media (max-width: 750px) {
+    margin-bottom: 200px;
+
+  }
+
+  @media (max-width: 500px) {
+    margin-bottom: 70px;
+
+  }
+
+  @media (max-width: 361px) {
+    margin-bottom: 50px;
+
+  }
+}
+
+.sectionTitleCuina {
+  color: #b47e2e;
+  font-size: 50px;
+  font-family: 'Times New Roman', Times, serif;
+  text-align: center;
+
+
+  margin-bottom: 70px;
+
+  @media (max-width: 991px) {
+
+    font-size: 32px;
+
+  }
+}
+
+.textContainerCuina {
+  color: black;
+  font-size: 21px;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  margin-bottom: 100px;
+  text-align: center;
+
+  @media (max-width: 991px) {
+    font-size: 15px;
+
+  }
+
+}
+
+.carousel__item {
+
+
+  max-height: 600px;
+  height: 600px;
+  width: 100%;
+  height: auto;
+  object-fit: cover;
+  margin: 0 auto;
+}
+
+
+.carousel__icon {
+  height: 100px;
+  width: calc(100vw * 90 / 1920);
+  position: absolute;
+  background-color: white;
+  color: black;
+  border: none;
+  cursor: pointer;
+  font-size: 24px;
+  z-index: 10;
+  transition: color 0.3s ease;
+}
+
+
+.carousel__icon:hover {
+  color: #b47e2e;
+
+}
+
+
+
+
+
+.carousel__pagination {
+  display: flex;
+  justify-content: center;
+  margin-top: 15px;
+}
+
+.carousel__pagination-button {
+  width: 12px;
+  height: 12px;
+  margin: 0 7px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.carousel__pagination-button::after {
+  width: 12px;
+  height: 12px;
+  background-color: #c7c7c7;
+  border-radius: 50%;
+  margin: 0 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+.carousel__pagination-button:hover::after {
+  background-color: #b47e2e;
+}
+
+.carousel__pagination-button--active::after {
+  background-color: black;
+}
+
+.footerSeparatorCuina {
+  height: 10px;
+  margin-bottom: 100px;
+
+  @media (max-width: 991px) {
+    display: none;
+
+  }
+}

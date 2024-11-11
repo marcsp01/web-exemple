@@ -1,0 +1,151 @@
+.footer {
+  //1910
+  width: calc(100vw * 1919 / 1920);
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background-color: white;
+  border-top: 1px solid #ddd;
+  padding: 0 20px;
+  padding-top: 20px;
+  padding-bottom: 25px;
+  color: black;
+
+  @media (max-width: 991px) {
+    flex-direction: column;
+    align-items: flex-start;
+    text-align: center;
+  }
+}
+
+.leftFooterContainer {
+  display: block;
+  margin-right: 70px;
+  padding-top: 60px;
+
+  @media (max-width: 991px) {
+    margin-right: 0px;
+    font-size: 18px;
+    padding-top: 25px;
+
+  }
+}
+
+.leftFooter,
+.rightFooter {
+  width: calc(100vw * 900 / 1920);
+  font-size: 20px;
+
+  @media (max-width: 991px) {
+    width: 100%;
+    margin: 0;
+    font-size: 18px;
+
+  }
+}
+
+.rightFooter {
+  text-align: right;
+  margin-right: calc(100vw * 40 / 1920);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+  @media (max-width: 991px) {
+    text-align: center;
+  }
+}
+
+.leftFooter {
+  display: flex;
+  flex-direction: row;
+  margin-left: calc(100vw * 40 / 1920);
+  font-family: Georgia, 'Times New Roman', Times, serif;
+
+  @media (max-width: 991px) {
+    flex-direction: column;
+    margin-left: 0;
+  }
+}
+
+.map-container {
+  @media (max-width: 991px) {
+
+    margin-top: 20px;
+    margin-bottom: 20px;
+  }
+}
+
+
+.titleFooter {
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 35px;
+  color: #b47e2e;
+  margin-bottom: 4px;
+
+  @media (max-width: 991px) {
+
+    font-size: 30px;
+
+  }
+}
+
+.numbers {
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.logoFooter {
+  height: calc(100vh * 200 / 1080);
+  object-fit: contain;
+  margin: 0 20px;
+}
+
+.mapaRes {
+  border: 0;
+  width: 400px;
+  height: 250px;
+}
+
+.textlegal {
+  text-decoration: none;
+  margin-top: 40px;
+  text-align: center;
+  font-family: Georgia, 'Times New Roman', Times, serif;
+  color: #b47e2e;
+
+}
+
+.textlegalLink {
+
+  text-decoration: none;
+  color: #b47e2e;
+  font-weight: bold;
+}
+
+.textlegalmovil {
+  margin-top: 25px;
+  display: none;
+}
+
+@media screen and (max-width: 1250px) {
+
+  .logoFooter,
+  .textlegal {
+    display: none;
+  }
+
+}
+
+@media screen and (max-width: 991px) {
+  .textlegalmovil {
+    display: block;
+  }
+
+}
+
+@media screen and (max-width: 501px) {
+  .mapaRes {
+    width: calc(100vw * 1600 / 1920);
+    ;
+    height: 220px;
+  }
+
+}

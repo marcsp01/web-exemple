@@ -1,0 +1,190 @@
+{
+    "prova": "prova-en",
+
+
+    "headerRestaurant":"The restaurant",
+    "headerCuina":"The kitchen",
+    "headerMenu":"Menu",
+    "headerEmpreses":"Business",
+    "headerContacte":"Contact",
+
+    
+        "home": "La Fàbrica del Gel Restaurant",
+        "descripcioRestaurantParraf1": "Quality cuisine by the sea",
+        "descripcioRestaurantParraf2": "Located just in front of the port of Palamós, and a two-minute walk from the fish market, you will find this historic restaurant. A cosy, elegant restaurant surrounded by works of art that opened its doors in 1997 (at that time run by the Ribot brothers), and which was originally an ice factory (which was in operation until 1987).",
+        "descripcioRestaurantParraf3": "Today, after 26 years, and continuing with the values of tradition, quality and professionalism, the Fàbrica del Gel is entering a new era. An era in which gastronomic experience takes centre stage and where the main mission is to provide an unforgettable culinary experience, reflected in freshness and authenticity.",
+        
+        "cuina": "The cuisine",
+        "descripcioCuinaParraf1": "We offer a traditional, Mediterranean and market cuisine. We receive fresh fish from the fish market every day and offer its delights through our menu and menus. We are passionate about everything the sea has to offer, especially the prestigious and renowned Palamós prawn, which we use in our recipes. We also love good meat and, of course, delicious rice dishes. Shall we pair it with a good wine to make it a perfect time?",
+        
+        "menu": "The menu, tasting menus",
+        "descripcioMenu1": "We invite you to have a look at our menu. In our restaurant, you will find seasonal menus, both market menus for everyday and for more special occasions with select tasting menus, as well as our menu of dishes and wines. Consult all the options here or download them to have them at hand whenever you need them. Enjoy!",
+        
+        "titolEmpresa": "Groups and businesses",
+        "descripcioEmpreses1": "How important celebrations are! Whether it's a family celebration or a business lunch or dinner, at La Fàbrica del Gel we offer you our space to carry it out. We have special and personalised menus for the occasion and we adapt everything necessary to make sure everything goes perfectly. What could be better than celebrating in an emblematic space enjoying the best gastronomy? Ask us for more information without obligation.",
+    
+    
+
+
+        "cartaTitol1": "TO GET STARTED",
+        "cartaPlat1": "Cod 'cocochas', artichoke and perol sausage on a cava sauce",
+        "cartaPlat2": "Grilled scallops, Iberian ham jus, vegetables and pancetta",
+        "cartaPlat3": "Grilled octopus with parmesan parmentier and minced meat",
+        "cartaPlat4": "Seasonal tomato salad with home-made marinated tuna and gherkins",
+        "cartaPlat5": "Flame-roasted aubergine salad with creamy goat's cheese and prawns",
+        "cartaPlat6": "Slices of wild sea bass on a carrot marinade",
+        "cartaPlat7": "Palamós prawns, cold tomato and squid soup",
+        "cartaTitol2": "RICE",
+        "cartaPlat8": "National lobster rice (Minimum 2 persons)",
+        "cartaPlat9": "Rice with Palamós prawns",
+        "cartaPlat10": "Rice with seasonal vegetables",
+        "cartaPlat11": "Creamy rice with duck and porcini mushrooms",
+        "cartaPlat12": "Grilled or raw shellfish from the market",
+        "cartaPlat13": "Fish from the fish market, grilled, à la donostia or baked à la donostia",
+        "cartaPlat14": "Grilled Palamós prawns (150 gr.)",
+        "cartaPlat15": "Seasonal fish stew and Palamós prawns",
+        "cartaTitol3": "OF THE FISH MARKET",
+        "cartaPlat16": "Fried red mullet, citrus sauce and seasonal vegetables",
+        "cartaTitol4": "MEATS",
+        "cartaPlat17": "Beef steak, mashed potatoes and sautéed vegetables",
+        "cartaPlat18": "Matured beef cutlet with garnish (8,50/100 gr.)",
+        "cartaPlat19": "Two-course cooked shoulder of lamb with jus, lettuce and parmentier",
+        "cartaPlat20": "Pork trotters with langoustines and seasonal mushrooms",
+        "descarregarCarta":"Download the card",
+        "descarregarMenu":"Download the menu",
+
+
+
+        "menu1Header": "LUNCH MENU",
+  "menu1HeaderText": "(From Monday to Friday, except holidays)",
+  "menu2Header": "LUNCH AND DINNER MENU",
+  "menu2HeaderText": "(From Monday to Sunday)",
+
+
+        "menuTitol1": "FIRST COURSE TO CHOOSE",
+        "menuPlat1": "Palamós shrimp salad",
+        "menuPlat2": "Rostit cannelloni, porcini and truffle sauce and jus",
+        "menuPlat3": "Slices of Iberian prey, vermouth sauce, gherkins and Parmesan cheese",
+        "menuPlat4": "Fried eggs, sautéed seasonal mushrooms and Arturo Sánchez Iberian pork jowl",
+        "menuTitol2": "SECOND COURSE TO CHOOSE",
+        "menuPlat5": "Acorn-fed Iberian secret, homemade chimichurri with fresh herbs and potato parmentier",
+        "menuPlat6": "Sea and mountain rice with cuttlefish, seasonal mushrooms and black sausage",
+        "menuPlat7": "Roasted or grilled fish from the market or Donostia style, with potatoes and vegetables",
+        "menuTitol3": "HOME-MADE DESSERTS",
+        "menuPlat8": "Bread, recommended wine (or soft drink) and dessert (or coffee)",
+        
+        "menu2Titol1": "FIRST COURSE TO CHOOSE",
+        "menu2Plat1": "Tagliatelle al fruti di mare with monkfish, prawns and mussels",
+        "menu2Plat2": "Steak tartar with mustard vinaigrette, gherkins and salted egg yolk",
+        "menu2Plat3": "Burrata salad, roasted pumpkin, red pesto with sun-dried tomatoes and walnuts",
+        "menu2Plat4": "Grilled squid, squid ink sauce and sautéed seasonal vegetables",
+        "menu2Titol2": "SECOND COURSE TO CHOOSE",
+        "menu2Plat5": "Iberian pork cheeks braised in red wine, creamy cauliflower purée and seasonal vegetables",
+        "menu2Plat6": "Rice with cuttlefish, monkfish and artichokes",
+        "menu2Plat7": "Roasted or grilled fish from the market or Donostia style, with potatoes and vegetables",
+        "menu2Titol3": "HOME-MADE DESSERTS",
+        "menu2Plat8": "Bread, recommended wine (or soft drink) and dessert (or coffee)",
+          
+        
+            "menuDegTitol1": "GOURMET TASTING MENU",
+            "menuDegTitol2": "PREMIUM TASTING MENU",
+            "menuDegSubTitol1": "STARTERS",
+            "menuDegSubTitol2": "TO CHOOSE FROM",
+            "menuDegFinal1": "Bread and water included, other beverages not included",
+            "menuDegFinal2": "Some products may vary according to season",
+          
+            "menuDeg1Plat1": "Welcome glass of cava",
+            "menuDeg1Plat2": "Iberian ham croquettes",
+            "menuDeg1Plat3": "Sea and mountain of scallops, Iberian ham cream and acorn-fed Iberian ham salads",
+            "menuDeg1Plat4": "Cocochas, artichokes and cava sauce",
+            "menuDeg1Plat5": "Balfegó tuna tartar, our dressing and side dishes",
+            "menuDeg1Plat6": "Fish from the fishmarket Donostia style, grilled or broiled",
+            "menuDeg1Plat7": "100% acorn-fed Iberian pork shoulder, potato parmentier and seasonal vegetables",
+            "menuDeg1Plat8": "Matured beef tataki over creamy celeriac puree and pickles",
+            "menuDeg1Plat9": "Palamós shrimp rice",
+            "menuDeg1Plat10": "House desserts",
+          
+            "menuDeg2Plat1": "Iberian shoulder accompanied with bread and tomato",
+            "menuDeg2Plat2": "Balfegó tuna tataki with garnishes",
+            "menuDeg2Plat3": "Cocochas, artichokes and cava sauce",
+            "menuDeg2Plat4": "Roasted octopus our way",
+            "menuDeg2Plat5": "Matured beef steak tartar served with Karasatu bread",
+            "menuDeg2Plat6": "Fish from the fishmarket Donostia style, grilled or broiled",
+            "menuDeg2Plat7": "Aged beef tenderloin, foie gras sauce and parmesan cheese parmentier",
+            "menuDeg2Plat8": "National lobster rice (Minimum 2 persons)",
+            "menuDeg2Plat9": "T-bone steak with garnish (Min. 2 pers.)",
+            "menuDeg2Plat10": "House desserts",
+            
+"botomenu0": "Our menu",
+"botomenu1": "Menu",
+"botomenu2": "Tasting menus",
+"botomenu3": "Business menu",
+"botomenu4": "St. Stephen's menu",
+"botomenu5": "New Year's Eve menu",
+
+    "menuEmpresesTitol1": "BUSINESS MENU",
+    "menuEmpresesSubTitol1": "FIRST COURSE TO CHOOSE",
+    "menuEmpresesPlat1": "Iberian ham croquettes",
+    "menuEmpresesPlat2": "Artichoke flower, egg yolk and 'Bellota' Iberian bacon",
+    "menuEmpresesPlat3": "Tuna tartare, creamy avocado and sweet potato with our own seasoning",
+    "menuEmpresesPlat4": "Rusian salad with Palamos prawns",
+    "menuEmpresesSubTitol2": "SECOND COURSE TO CHOOSE",
+    "menuEmpresesPlat5": "Grilled heifer loin, potato and parmesan Parmentier with roast meat juice",
+    "menuEmpresesPlat6": "Donostiarra-style fish of the market, roasted on the grill",
+    "menuEmpresesPlat7": "Creamy rice with Palamós prawns and cuttlefish",
+    "menuEmpresesPlat8": "Bread, wine on the house (or soda) and coffee included",
+    "menuEmpresesIVA": "VAT included",
+    
+        "menuStEsteveTitol1": "MENU SANT ESTEVE",
+        "menuStEsteveSubTitol1": "SNACKS FOR NIBBLING",
+        "menuStEstevePlat1": "Casa Santoña 00 anchovies",
+        "menuStEstevePlat2": "Knife-cut Iberian ham with tomato bread",
+        "menuStEstevePlat3": "Iberian ham croquettes",
+        "menuStEstevePlat4": "Heifer carpaccio with mustard, parmesan, and rocket dressing",
+        "menuStEsteveSubTitol2": "MAIN AND SECOND COURSE",
+        "menuStEstevePlat5": "Pebble soup and meatball",
+        "menuStEstevePlat6": "Canelon of marmite meat and foie, truffle bechamel and roast juices",
+        "menuStEsteveSubTitol3": "DESSERTS OF THE HOUSE & WAFERS",
+        "menuStEstevePlat7": "Bread, house wine (or soda) included. Coffee not included",
+    
+        
+            "menuFiAnyTitol1": "NEW YEAR'S EVE MENU",
+            "menuFiAnySubTitol1": "SNACKS FOR NIBBLING",
+            "menuFiAnyPlat1": "Knife-cut Iberian ham with tomato bread",
+            "menuFiAnyPlat2": "French oyster with sour apple soup and minced meat",
+            "menuFiAnyPlat3": "Coke of duck and eel",
+            "menuFiAnyPlat4": "National lobster salad",
+            "menuFiAnyPlat5": "Red shrimp ravioli from Palamós in the juice of its heads",
+            "menuFiAnySubTitol2": "MAIN AND SECOND COURSE",
+            "menuFiAnyPlat6": "½ turbot, champagne sauce with caviar and cockles",
+            "menuFiAnyPlat7": "Special sorbet of the house",
+            "menuFiAnyPlat8": "½ mature veal fillet, Périgord sauce and seasonal mushrooms",
+            "menuFiAnyPlat9": "Grapes, a glass of cava and cotillion bag",
+        
+        
+    
+
+            "empresesFormNom":"Name",
+            "empresesFormMail":"Email",
+            "empresesFormInfo1":"I have read the ",
+            "empresesFormInfo2":"terms and conditions",
+            "empresesFormBoto":"Request information",
+            "empresesAllright": "Information received. We will get in touch as soon as possible.",
+            
+        "footerTitolDireccio":"Contact:",
+        "footerDireccio1":"Plaça Sant Pere, ",
+        "footerDireccio2":"- Palamós ",
+        "footerDireccio3":"Girona ",
+    
+        "footerTitolReserves": "Bookings:",
+    
+        "footerTitolHorari": "Opening Hours:",
+        "footerHorari1": "Monday to Sunday:",
+        "footerHorari2": "Lunch",
+        "footerHorari3": "Dinner",
+
+
+
+  "footerInfolegal1":"Privacy policy"
+      
+   }

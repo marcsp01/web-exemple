@@ -1,0 +1,195 @@
+{
+    "prova": "prova-cat",
+    "headerRestaurant":"El restaurant",
+    "headerCuina":"La cuina",
+    "headerMenu":"La carta",
+    "headerEmpreses":"Empreses",
+    "headerContacte":"Contacte",
+
+    "home": "Restaurant La Fàbrica del Gel",
+    "descripcioRestaurantParraf1": "Cuina de qualitat a la vora del mar",
+    "descripcioRestaurantParraf2": "Situat just davant del port de Palamós, i a dos minuts caminant de la Llotja, hi trobareu aquest històric restaurant. Un local acollidor, elegant i envoltat d'obres d'art que va obrir les seves portes l'any 1997 (en aquell moment dirigit pels germans Ribot), i que originàriament va ser una fàbrica de gel (la qual va estar en funcionament fins a l'any 1987).",
+    "descripcioRestaurantParraf3": "Actualment, després de 26 anys, i continuant amb els valors de tradició, qualitat i professionalitat, la Fàbrica del Gel comença una nova era. Una era en la que vivència gastronòmica agafa protagonisme i on la missió principal és brindar una experiència culinària inoblidable, reflectida en la frescor i l'autenticitat.",
+    
+    "cuina": "La cuina",
+    "descripcioCuinaParraf1": "Oferim una cuina tradicional, mediterrània i de mercat. Rebem cada dia peix fresc de la llotja i n'oferim les seves delícies a través de la nostra carta i menús. Som uns apassionants de tot el que ens ofereix el mar, en especial a la prestigiosa i reconeguda gamba de Palamós, que utilitzem en les nostres receptes. També de la bona carn i, evidentment, dels deliciosos arrossos. Ho maridem amb un bon vi per fer una vetllada rodona?",
+    
+    "menu": "La carta",
+    "descripcioMenu1":"Et convidem a fer un passeig per la nostra carta. Al nostre restaurant hi trobaràs menús de temporada, tant de mercat pel dia a dia com per a ocasions més especials amb selectes menús degustació, fins a la nostra carta de plats i de vins. Consulta aquí totes les opcions o bé descarrega-te-les per tenir-ho a mà sempre que ho necessitis. A gaudir!",
+  
+    "titolEmpresa":"Grups i empreses",
+    "descripcioEmpreses1":"I com són d'importants les celebracions! Sigui una celebració familiar o un dinar/sopar d'empresa, des de La Fàbrica del Gel t'oferim el nostre espai per poder-ho dur a terme. Disposem de menús especials i personalitzats per a l'ocasió i adeqüem tot el que és necessari perquè tot surti perfecte. Què millor que celebrar-ho en un espai emblemàtic gaudint de la millor gastronomia? Demana'ns més informació sense compromís.",
+    
+
+    "cartaTitol1":"PER COMENÇAR",
+    "cartaPlat1":"Cocotxes de bacallà, carxofa i botifarra delperolsobre salsa de cava ",
+    "cartaPlat2":"Vieires a la planxa, suc d'ibèric, verduretes i cansalada ibèrica",
+    "cartaPlat3":"Pop a la planxa, parmentier de parmesà i la seva picada ",
+    "cartaPlat4":"Amanida de tomàquets de temporada, tonyina escabetxada a casa i adobats",
+    "cartaPlat5":"Amanida d'albergínia escalivada a la flama, cremós de formatge de cabra i llagostins ",
+    "cartaPlat6":"Làmines de corbina salvatge sobre escabetx de pastanaga ",
+    "cartaPlat7":"Sopa freda de tomàquet, calamar i gambes de Palamós",
+    "cartaTitol2":"ARROSSOS",
+    "cartaPlat8":"Arròs de llamàntol nacional (mínim 2 persones)",
+    "cartaPlat9":"Arròs de gamba de Palamós",
+    "cartaPlat10":"Arròs de verdures de temporada",
+    "cartaPlat11":"Arròs cremós de ceps i ànec",
+    "cartaPlat12":"Closca de llotja a la planxa o en cru",
+    "cartaPlat13":"Peix de la llotja a la planxa, a la donostiarra o al forn a la donostiarra",
+    "cartaPlat14":"Gamba de Palamós a la planxa (150 g.)",
+    "cartaPlat15":"Suquet de peix de llotja segons temporada i gamba de Palamós",
+    "cartaTitol3":"DE LLOTJA",
+    "cartaPlat16":"Roger de Palamós fregit, salsa cítrica i verdures de temporada saltades",
+    "cartaTitol4":"CARNS",
+    "cartaPlat17":"Filet de vaca, el seu suc, puré de patata i verdures saltades",
+    "cartaPlat18":"Mitjana (”txuletón”) de vaca madurada amb guarnició (8,50/100 g.)",
+    "cartaPlat19":"Espatlla de xai en dues coccions, el seu suc, enciam i parmentier",
+    "cartaPlat20":"Peus de porc amb escamarlà de Palamós i bolets de temporada",
+    "descarregarCarta":"Descarrega't la carta",
+    "descarregarMenu":"Descarrega't el menú",
+
+
+    "menu1Header":"MENÚ MIGDIA",
+    "menu1HeaderText":"(De dilluns a divendres,excepte festius)",
+    "menu2Header":"MENÚ MIGDIA I NIT",
+    "menu2HeaderText":"(De dilluns a diumenge)",
+
+
+    "menuTitol1":"PRIMERS A ESCOLLIR",
+    "menuPlat1":"Ensaladilla amb gamba de Palamós",
+    "menuPlat2":"Caneló de rostit, salsa de ceps i tòfona i el seu suc",
+    "menuPlat3":"Làmines de presa ibèrica, salsa de vermut, adobats i formatge parmesà",
+    "menuPlat4":"Ous camperols fregits, bolets de temporada saltades i papada ibèrica Arturo Sánchez",
+    "menuTitol2":"SEGONS A ESCOLLIR",
+    "menuPlat5":"Secret ibèric de gla,chimichurride la casa d'herbes fresques i parmentier de patata",
+    "menuPlat6":"Arròs mar i muntanya de sèpia, bolets de temporada i botifarra de pagès negre",
+    "menuPlat7":"Peix de la llotja a la planxa o a la donostiarra acompanyado de patata i verdures",
+    "menuTitol3":"POSTRES DE LA CASA",
+    "menuPlat8":"Pa, vi recomanat (o refresc) i postres(o cafè)",
+
+    "menu2Titol1":"PRIMERS A ESCOLLIR",
+    "menu2Plat1":"Taiglatelle al fruti di mare amb rap, llagostins i musclos",
+    "menu2Plat2":"Steak tàrtar amb amaniment de mostassa antiga adobats i rovell d'ou curat en sal",
+    "menu2Plat3":"Amanida de burrata, carabassa rostida,pesto rojo de tomàquets secs i fruits secs",
+    "menu2Plat4":"Calamar a la planxa, salsa de la seva tinta i verdures de temporada saltades",
+    "menu2Titol2":"SEGONS A ESCOLLIR",
+    "menu2Plat5":"Galtes de porc ibèric estofades al vi negre,puré cremós de coliflor i verdures de temporada",
+    "menu2Plat6":"Arròs de sèpia, rap i carxofes",
+    "menu2Plat7":"Peix de la llotja a la planxa o a la donostiarra acompanyado de patata i verdures",
+    "menu2Titol3":"POSTRES DE LA CASA",
+    "menu2Plat8":"Pa, vi recomanat (o refresc) i postres(o cafè)",
+
+    "menuDegTitol1":"MENÚ DEGUSTACIÓ GOURMET",
+    "menuDegTitol2":"MENÚ DEGUSTACIÓ PREMIUM",
+    "menuDegSubTitol1":"ENTRANTS",
+    "menuDegSubTitol2":"A ESCOLLIR ENTRE",
+    "menuDegFinal1":"Pa i aigua inclòs, altes begudes a part",
+    "menuDegFinal2":"Alguns productes poden variar segons temporada",
+
+    "menuDeg1Plat1":"Copa de cava de benvinguda",
+    "menuDeg1Plat2":"Croquetes de pernil ibèric",
+    "menuDeg1Plat3":"Mar i muntanya de vieires, cremós d'ibèric i cansalada ibèrica de gla",
+    "menuDeg1Plat4":"Cocotxes, carxofes i salsa de cava",
+    "menuDeg1Plat5":"Tàrtar de tonyina Balfegó, el nostre amaniment i guarnicions",
+    "menuDeg1Plat6":"Peix de la llotja a la donostiarra, rostit o a la planxa",
+    "menuDeg1Plat7":"Presa ibèrica de gla 100%, parmentier de patata i verdures de temporada",
+    "menuDeg1Plat8":"Tataki de vaca madurat sobre puré de cremós de celerí i adobats",
+    "menuDeg1Plat9":"Arròs de gamba de Palamós",
+    "menuDeg1Plat10":"Postres de la casa",
+    
+
+    "menuDeg2Plat1":"Paletilla ibèrica acompanyada de pa amb tomàquet",
+    "menuDeg2Plat2":"Tataki de tonyina Balfegó amb les seves guarnicions",
+    "menuDeg2Plat3":"Cocotxes, carxofes i salsa de cava",
+    "menuDeg2Plat4":"Pop rostit a la nostra manera",
+    "menuDeg2Plat5":"Steak tàrtar de vaca madurada acompanyat de pa Karasatu",
+    "menuDeg2Plat6":"Peix de la llotja a la donostiarra, rostit o a la planxa",
+    "menuDeg2Plat7":"Filet de vaca madurat, salsa de foie i parmentier de formatge parmesà",
+    "menuDeg2Plat8":"Arròs de llamàntol nacional (Mínim 2 persones)",
+    "menuDeg2Plat9":"Mitjana de vaca madurada amb la seva guanició (Min. 2 pers.)",
+    "menuDeg2Plat10":"Postres de la casa",
+
+    "botomenu0":"La nostra carta",
+    "botomenu1":"Menú",
+    "botomenu2":"Menús degustació",
+    "botomenu3":"Menú empreses",
+    "botomenu4":"Menú sant Esteve",
+    "botomenu5":"Menú fi d'any",
+
+    "menuEmpresesTitol1":"MENÚ EMPRESES",
+    "menuEmpresesSubTitol1":"PRIMERS A ESCOLLIR",
+    "menuEmpresesPlat1":"Croquetes de pernil ibèric",
+    "menuEmpresesPlat2":"Flor de carxofa, rovell d' ou i cansalada viada ibèrica de gla",
+    "menuEmpresesPlat3":"Tàrtar de tonyina, cremós d'alvocat,moniato i el nostre amaniment",
+    "menuEmpresesPlat4":"Ensaladilla amb gamba de Palamós",
+    "menuEmpresesSubTitol2":"SEGONS A ESCOLLIR",
+    "menuEmpresesPlat5":"Filet de vaca amb parmentier de patata, parmesà i suc rostit de carn",
+    "menuEmpresesPlat6":"Peix de la llotja a la donosotiarra,rostit o a la planxa",
+    "menuEmpresesPlat7":"Arròs cremós de gamba de Palamós i sèpia",
+    "menuEmpresesPlat8":"Pa, vi de la casa (o refresc) i cafè inclòs",
+    "menuEmpresesIVA":" IVA inclòs",
+
+
+
+
+
+    "menuStEsteveTitol1":"MENÚ SANT ESTEVE",
+    "menuStEsteveSubTitol1":"APERITIUS PER PICAR",
+    "menuStEstevePlat1":"Anxova 00 de Casa Santoña",
+    "menuStEstevePlat2":" Pernil ibèric tallat a ganivet acompanyat de pa amb tomàquet",
+    "menuStEstevePlat3":"Croquetes de pernil ibèric",
+    "menuStEstevePlat4":" Carpaccio de vedella, amaniment de mostassa, parmesà i ruca",
+
+    "menuStEsteveSubTitol2":"PLAT PRINCIPAL I SEGON",
+    "menuStEstevePlat5":"Sopa de galets i la seva pilota",
+    "menuStEstevePlat6":"Caneló de carn d'olla i foie, beixamel de tòfona i suc de rostit",
+    "menuStEsteveSubTitol3":"POSTRES DE LA CASA I NEULES",
+    "menuStEstevePlat7":"Pa, vi de la casa (o refresc) inclòsos. Cafè no inclòs",
+
+
+
+    "menuFiAnyTitol1":"MENÚ FI D'ANY",
+    "menuFiAnySubTitol1":"APERITIUS PER PICAR",
+    "menuFiAnyPlat1":"Pernil ibèric tallat a ganivet acompanyat de pa amb tomàquet",
+    "menuFiAnyPlat2":"Ostra francesa en sopa de poma àcida i la seva picada",
+    "menuFiAnyPlat3":"Coca d'ànec i anguila",
+    "menuFiAnyPlat4":"Ensaladilla de llamàntol nacional",
+    "menuFiAnyPlat5":"Ravioli de gamba vermella de Palamós i suc dels seus caps",
+
+    "menuFiAnySubTitol2":"PLAT PRINCIPAL I SEGON",
+    "menuFiAnyPlat6":"½ turbot, salsa de cava amb caviar i escopinya",
+    "menuFiAnyPlat7":"Sorbet especialde la casa",
+    "menuFiAnyPlat8":"½ de filet de vaca madurat, salsa périgueux i bolets de temporada",
+
+    "menuFiAnyPlat9":"Raïm, copa de cava i bossa de cotilló",
+
+
+    "empresesFormNom":"Nom",
+    "empresesFormMail":"Correu electrònic",
+    "empresesFormInfo1":"He llegit els ",
+    "empresesFormInfo2":"termes i condicions",
+    "empresesFormBoto":"Demanar informació",
+    "empresesAllright":"Informació rebuda. Ens posarem en contacte al més aviat possible.",
+
+    "footerTitolDireccio":"Direcció:",
+    "footerDireccio1":"Plaça Sant Pere, ",
+    "footerDireccio2":"- Palamós ",
+    "footerDireccio3":"Girona ",
+
+    "footerTitolReserves": "Reserves:",
+
+    "footerTitolHorari": "Horari:",
+    "footerHorari1": "De dilluns a diumenge:",
+    "footerHorari2": "Dinars",
+    "footerHorari3": "Sopars",
+
+    
+
+    "footerInfolegal1":"Política de privacitat"
+
+
+
+
+
+}
+   
